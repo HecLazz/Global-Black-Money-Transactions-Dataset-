@@ -47,7 +47,7 @@ Ao avaliar a natureza das transações, constatamos que aproximadamente 70% das 
 Analisando as transações de país para país, identificamos um valor expressivo de aproximadamente **350 milhões de dólares** transferidos da China para os Estados Unidos, sendo que o maior valor está associado ao tipo de transação de **Compra de Propriedade**.
 
 ![Fluxo de Transação entre países](Imagens/imagen6.png)
-![Tabela informativa](Imagens/imagen.png)
+![Tabela informativa](Imagens/imagen7.png)
 
 > A aquisição de imóveis é uma prática que pode ser utilizada para converter fundos de origem suspeita em ativos legais, configurando-se como uma possível estratégia de lavagem de dinheiro. Isso destaca a importância de uma supervisão mais rígida nas transações imobiliárias transnacionais.
 
